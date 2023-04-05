@@ -1,6 +1,7 @@
 ### Hello! 👋
 
-
+- :notebook: my name is Kaleb.  I a graduate of the University of Denver Full-Stack Web Development Bootcamp and I have a B.A. in Theatre from Colorado College.  Trying to break into the world of tech! 
+- <br>
 - 🔭 I’m currently working on: a new book and app.
 - 🌱 I’m currently learning: TypseScript
 - 👯 I’m looking to collaborate on: anything!
