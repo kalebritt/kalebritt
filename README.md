@@ -3,7 +3,7 @@
 - :notebook: I am graduate of the University of Denver Full-Stack Web Development Bootcamp and I have a B.A. in Theatre from Colorado College. Early 20th century ex-pat literature is a wonderful thing as is the stirring poetry of Sylvia Plath and Ted Hughes. Trying to break into the world of tech!
 
 - 🔭 I’m currently working on: a new book and app.
-- 🌱 I’m currently learning: TypseScript 
+- 🌱 I’m currently learning: TypeScript 
 - 👯 I’m looking to collaborate on: anything!
 - 🤔 I’m looking for help with: React grinds my gears
 - 💬 Ask me about: anything!
